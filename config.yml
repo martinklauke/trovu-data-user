@@ -4,8 +4,8 @@ namespaces:
 - o
 - en
 - .us
-- github: .
-  name: my
+- github: martinklauke
+  name: martin
 # defaultKeyword: g 
 language: de
 country: de
