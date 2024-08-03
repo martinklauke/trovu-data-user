@@ -6,6 +6,6 @@ namespaces:
 - .us
 - github: martinklauke
   name: martin
-# defaultKeyword: g 
+defaultKeyword: g 
 language: de
 country: de
