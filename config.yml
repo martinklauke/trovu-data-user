@@ -2,8 +2,8 @@
 # https://trovu.net/docs/users/advanced/#custom-configuration
 namespaces:
 - o
+- .de
 - en
-- .us
 - github: martinklauke
   name: martin
 defaultKeyword: g 
