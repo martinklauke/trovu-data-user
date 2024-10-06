@@ -3,7 +3,7 @@
 namespaces:
 - o
 - en
-- .de
+- .us
 - github: martinklauke
   name: martin
 defaultKeyword: g 
