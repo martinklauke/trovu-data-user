@@ -4,8 +4,8 @@
 pcn 1: http://intra.ree.renesas.com/pcnDB/index.html?keyword=<param1>
 spc 1: http://data.ree.renesas.com/specDB/index.php?&submit=search&keyword=<param1>
 
-examplekeyword1: http://www.example.com/?q=<query>
-examplekeyword2:
+examplekeyword 1: http://www.example.com/?q=<query>
+examplekeyword 2:
   url: http://www.example.com/?q=<query>&p=<puery>
   title: Custom shortcut
   description: My custom shortcut with the keyword examplekeyword and 2 arguments.
