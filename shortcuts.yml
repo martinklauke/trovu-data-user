@@ -1,8 +1,8 @@
 # Documentation:
 # https://trovu.net/docs/shortcuts/
 
-pcn 1: http://intra.ree.renesas.com/pcnDB/index.html?keyword=<param1>
-spc 1: http://data.ree.renesas.com/specDB/index.php?&submit=search&keyword=<param1>
+pcn 1: http://intra.ree.renesas.com/pcnDB/index.html?keyword=<query>
+spc 1: http://data.ree.renesas.com/specDB/index.php?&submit=search&keyword=<query>
 
 examplekeyword 1: http://www.example.com/?q=<query>
 examplekeyword 2:
