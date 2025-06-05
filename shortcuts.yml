@@ -8,8 +8,8 @@ zebra 0: https://zebra.terapower.com.tw/Zebra/index.html
 quadvf 0: https://quad.csh.renesas.com/qvf/qvf_top.php
 spotfire 0: http://oeforaspofs001p.adwin.renesas.com/spotfire/wp/analysis?file=/GMANUF/QAD/Renesas_qa_casqit_rekkund&waid=kNfj_hFukUmm0bBWavIzU-08235646e8tXhz&wavid=0
 
-pcn 1: http://intra.ree.renesas.com/pcnDB/index.html?keyword=<query>
-spc 1: http://data.ree.renesas.com/specDB/index.php?&submit=search&keyword=<query>
+pcn 1: http://intra.ree.adwin.renesas.com/pcnDB/index.html?keyword=<query>
+spc 1: http://data.ree.adwin.renesas.com/specDB/index.php?&submit=search&keyword=<query>
 
 examplekeyword 1: http://www.example.com/?q=<query>
 examplekeyword 2:
